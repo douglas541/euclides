@@ -12,7 +12,7 @@ function Layout({ children }) {
                 </ContentContainer>
             </Container>
             
-            <Footer></Footer>
+            <Footer/>
         </>
     );
 }

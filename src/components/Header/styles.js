@@ -34,7 +34,7 @@ export const Logo = styled.div`
     margin-right: 3vw;
 
     img {
-        width: 2vw;
+        width: 1.8vw;
         min-width: 20px;
     };
 `;
