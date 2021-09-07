@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Layout from '../components/Layout';
 import GlobalStyle from '../../styles/globals';
 import Hero from '../components/Hero';
+import CardsContainer from '../components/CardsContainer';
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
 
       <Layout>
         <Hero/>
+        <CardsContainer/>
       </Layout>
 
     </div>
