@@ -1,10 +1,8 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    width: 25vw;
     height: 4.6vh;
-    min-width: 250px;
-    max-width: 360px;
+    width: 300px;
     background-color: ${props => props.color};
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
