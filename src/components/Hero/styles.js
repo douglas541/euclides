@@ -6,7 +6,7 @@ export const Container = styled.div`
     justify-content: center;
     width: 100vw;
     height: 30vh;
-    background-image: url('./background.png');
+    background-image: url('./background.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
