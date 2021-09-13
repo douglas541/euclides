@@ -5,13 +5,12 @@ import { Container, ContentContainer, Wrapper } from './styles';
 function Layout({ children }) {
     return (
         <>
-            <Header></Header>
+            <Header/>
             <Container>
                 <ContentContainer>
                     {children}
                 </ContentContainer>
             </Container>
-            
             <Footer/>
         </>
     );
