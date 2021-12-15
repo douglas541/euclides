@@ -18,7 +18,7 @@ function EuclidesCard(props) {
 
                 <Buttom
                     link="#"
-                    color={props.estendido ? "#F2C268" : "#003F63"}
+                    color={props.estendido ? "#F2C268" : "#ffffff"}
                     textColor={props.estendido ? "#003F63" : "#FFFFFF"}
                     label={props.estendido ? "Euclides Estendido" : "Euclides"}
                 />

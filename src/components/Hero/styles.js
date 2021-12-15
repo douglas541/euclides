@@ -31,9 +31,9 @@ export const LogoContainer = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 18vw;
-    min-width: 365px;
-    max-width: 420px;
+    width: 20vw;
+    min-width: 325px;
+    max-width: 370px;
     /* background-color: blue; */
 
     img{
